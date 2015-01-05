@@ -588,7 +588,7 @@ function messaging_inbox_page_output() {
 				<thead><tr>
 				<th scope='col'>" . __("From", 'messaging') . "</th>
 				<th scope='col'>" . __("Subject", 'messaging') . "</th>
-				<th scope='col'>" . __("Recieved", 'messaging') . "</th>
+				<th scope='col'>" . __("Received", 'messaging') . "</th>
 				<th scope='col'>" . __("Actions", 'messaging') . "</th>
 				<th scope='col'></th>
 				<th scope='col'></th>
@@ -664,7 +664,7 @@ function messaging_inbox_page_output() {
 				<thead><tr>
 				<th scope='col'>" . __("From", 'messaging') . "</th>
 				<th scope='col'>" . __("Subject", 'messaging') . "</th>
-				<th scope='col'>" . __("Recieved", 'messaging') . "</th>
+				<th scope='col'>" . __("Received", 'messaging') . "</th>
 				<th scope='col'>" . __("Actions", 'messaging') . "</th>
 				<th scope='col'></th>
 				<th scope='col'></th>
