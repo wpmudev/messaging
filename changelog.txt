@@ -1,5 +1,5 @@
 Plugin Name: Messaging
-Author: S H Mohanjith (Incsub), Andrew Billits (Incsub)
+Author: S H Mohanjith (Incsub), Andrew Billits (Incsub), Marko Miljus (Incsub)
 
 Change Log:
 ----------------------------------------------------------------------
